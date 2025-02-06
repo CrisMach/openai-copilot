@@ -16,7 +16,8 @@ Para uso do Copilot não é necessário a instalação de nenhum aplicativo, ele
 Neste caso utilizamos uma frase simples para solicitar a criação de uma imagem, quanto maior o nível de detalhamento, maior a precisão. 
 
 ## Frase + Imagem
-[`postit com texto`](https://github.com/CrisMach/openai-copilot/blob/main/inputs/Anjos-buldog1.png)
+![alt text](https://github.com/CrisMach/openai-copilot/blob/main/inputs/Anjos-buldog1.png?raw=true)
+
 
 ---
 ### Conclusão
